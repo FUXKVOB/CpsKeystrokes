@@ -3,11 +3,11 @@
     {
       "id": "cps-keystrokes",
       "name": "CpsKeystrokes",
-      "description": "Мод для отображения нажатий клавиш и CPS. Специальная сборка для Nsmods! ✨",
+      "description": "Стильный мод для отображения нажатий клавиш и CPS. Специально для Nsmods! ✨",
       "version": "1.0.0",
       "author": "FUXKVOB",
       "downloadUrl": "https://github.com/FUXKVOB/CpsKeystrokes",
-      "jarUrl": "https://github.com/FUXKVOB/CpsKeystrokes/releases/download/v1.0.0/CpsKeystrokes-1.0.0.jar",
+      "jarUrl": "https://github.com/FUXKVOB/CpsKeystrokes/releases/download/v1.0.0/cpskeys-1.0.0.jar",
       "supportedVersions": ["1.21.10"]
     }
   ]
